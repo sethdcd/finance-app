@@ -1,0 +1,7 @@
+#mainHeader {
+	margin-top: 2%;
+}
+
+#mainHeader.div.ui.medium {
+	padding-top: 0;
+}
